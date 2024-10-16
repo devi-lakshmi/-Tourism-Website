@@ -1,10 +1,10 @@
-# Toursim App
+# Tourism App
 
 ## Project Description
-The The **Tourism App** is a web application designed to help users explore famous tourist destinations in India. It provides a user-friendly interface for viewing details about various places, including the Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple. Users can navigate through different sections to learn more about these iconic sites. When users click on a favorite place, the app navigates to a detailed view section for more information.
+The **Tourism App** is a web application designed to help users explore famous tourist destinations in India. It provides a user-friendly interface for viewing details about various places, including the Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple. Users can navigate through different sections to learn more about these iconic sites. When users click on a favorite place, the app navigates to a detailed view section for more information.
 
 ## Live Demo
-You can view the live application [here](https://your-live-demo-link.com).
+You can view the live application https://tourismappin.netlify.app.
 
 ## Technologies Used
 - **HTML**: For structuring the content.
